@@ -1,2 +1,2 @@
 # Calculator-App
-Build a functional 
+Build a functional calculator
